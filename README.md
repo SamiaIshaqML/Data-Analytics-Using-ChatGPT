@@ -1,0 +1,1 @@
+This project carries out extensive data analysis using ChatGPT. It involves cleaning the data, conducting exploratory data analysis and building a machine learning linear regression model to predict the yearly salary given the input features of job title, job platform, location and job type. 
